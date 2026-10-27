@@ -1,0 +1,6 @@
+{
+  "name": "S.C.O.P.E. - Smart Connected Online Platform for Education",
+  "description": "Comprehensive school management and learning platform connecting students, teachers, parents, principals, and bus coordinators with real-time bus tracking, coursework, attendance, exams, and messaging.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
